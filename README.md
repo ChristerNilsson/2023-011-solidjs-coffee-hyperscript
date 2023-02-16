@@ -1,1 +1,1 @@
-# 2023-011-solidjs-coffee-teacup
+# 2023-011-solidjs-coffee-hyperscript
